@@ -44,7 +44,9 @@
     <tbody align="left">
         <tr>
             <td>01</td>
-            <td>Web Compose</td>
+            <td>
+                <a href="web.yml">Web Compose</a>
+            </td>
             <td align="center">
                 <a href="">
                     <img align="center" src="https://img.shields.io/badge/formação-red?style=for-the-badge&color=blue">
@@ -79,7 +81,9 @@
     <tbody align="left">
         <tr>
             <td>01</td>
-            <td>Web Compose</td>
+            <td>
+                <a href="web.yml">Web Compose</a>
+            </td>
             <td align="center">
                 <a href="">
                     <img align="center" src="https://img.shields.io/badge/formação-red?style=for-the-badge&color=blue">
